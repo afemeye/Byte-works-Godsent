@@ -1,0 +1,200 @@
+.main-nav {
+    float: right;
+    list-style: none;
+    padding-top: 1px;
+    text-decoration: none;
+    list-style: none;
+    margin-bottom: 1px;
+      
+}
+
+.main-nav li {
+    display: inline-block;
+}
+
+.main-nav li a:link,
+.main-nav li a:visited {
+    padding: 3px 0;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-bottom: 2px solid transparent;
+    transition: border-bottom 0.2s;
+    
+}
+
+.main-nav li a:hover,
+.main-nav li a:active {
+    border-bottom: 2px solid #edce25;
+}
+
+
+.btn:link,
+.btn:visited {
+    display: inline-block;
+    padding: 10px 30px;
+    font-weight: 300px;
+    text-decoration: none;
+    border-radius: 200px;
+    transition: background-color 0.2s, border 0.2s, color 0.2s;
+   
+}
+
+.btn-full:link,
+.btn-full:visited {
+   background-color: #d39e3e;
+     border: 1px solid #d39e3e;
+     color: #f7e5e5;
+    margin-right: 15px;
+}
+
+
+
+
+.logo {
+    height: 50px;
+}
+
+.row {
+    max-width: 1140px;
+    margin: 0 auto 0 auto;
+}
+
+.main-nav li {
+    display: inline-block;
+    margin: 30px;
+    color: white;
+}
+
+.backgroung {
+    background-image:url(images/bkg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    width: auto;
+    height: auto;
+
+
+}
+
+.first {
+    color: white;
+    padding-left: 250px;
+    margin-top: 30px;
+    font-family:monospace;
+    font-size: 40px;
+}
+
+hr {
+    width: 100%;
+    height: 1px;
+    color: #f24b0d;
+}
+
+.apps {
+    float: right;
+    height: 50px;
+    width: auto;
+}
+
+.column {
+    float: left;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+
+.apps {
+    padding-top: 99px;
+}
+
+.first-text {
+    padding-right: px;
+    color: #dbb3b3;
+    padding-bottom: 20px;
+    text-decoration-style: solid;
+    font-size: 20px;
+}
+
+.container {
+    color: #e5c0c0;
+}
+
+.cancelbtn {
+    color: rgb(208, 170, 170);
+}
+
+.markets {
+    margin-top: 250px;
+    color: #a56b6b;
+}
+
+.start {
+    padding-left: 280px;
+    color: #e0baba;
+    font-size: 50px;
+    font-style: strong;
+    margin-bottom: 0;
+}
+
+.mkt {
+    float: left;
+    width: 100%
+    height: auto;
+    color: #edcbcb;
+    padding-bottom: 7px;
+}
+
+
+.mkt img {
+    padding-right: 3px;
+    width: %;
+    float: left;
+}
+
+}
+
+.mktt {
+  width: 100%;
+    height: auto;
+    color: #edcbcb;
+    float: left;
+    padding-bottom: 7px;
+    padding-top: 7px;
+}
+
+.partner {
+    margin-left: 219px;
+    padding-top: 50px;
+}
+
+h4 {
+    float: left;
+    color: white;
+    text-decoration-style: wavy;
+}
+
+.last {
+ margin-top: 310px; 
+    margin-left: 6px;
+    padding-right: 5px;
+}
+
+vl {
+    border-left: 3px solid green;
+    padding: 4px 4px;
+}
+
+.text {
+    color: #f7dcbe;
+    font-style: oblique;
+    padding-bottom: 1px;
+}
+
+.define {
+    width: 100%;
+   color: #fff4f4;
+}
+.define col {
+    padding-right: 50px;
+}
+
